@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+Armageddon.egg-info/PKG-INFO
+Armageddon.egg-info/SOURCES.txt
+Armageddon.egg-info/dependency_links.txt
+Armageddon.egg-info/top_level.txt
+armageddon/__init__.py
+armageddon/damage.py
+armageddon/locator.py
+armageddon/mapping.py
+armageddon/solver.py
